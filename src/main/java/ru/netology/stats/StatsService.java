@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.stats;
 
 public class StatsService {
     public int getSum(int[] sales) {
