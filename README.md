@@ -37,4 +37,4 @@ public int minSales(long[] sales) {
 1. Написать на каждый метод по одному автотесту, который проверяет правильность работы на тестовых данных
 1. Убедитесь, что ваши автотесты работают и проходят (для этого пробуйте "ронять" каждый свой тест и удостоверяйтесь, что он действительно падает).
 
-[Решение](https://github.com/ripodgor/-Java_QA46_7/blob/b3055e47434478d79c15ea1f86ceac69f5d665d5/src/test/java/ru/netology/StatsServiceTest.java)
+[Решение](https://github.com/ripodgor/-Java_QA46_7/blob/e2da4bccdafaea2f22a79850ab2c15addafe2131/src/test/java/ru/netology/stats/StatsServiceTest.java)
